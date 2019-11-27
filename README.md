@@ -1,2 +1,4 @@
-# assembly-codes
-Assembly codes from MIPS
+# Calcula Fatorial
+Programa em Assembly que faz o cálculo de fatorial de um número inteiro.
+
+
